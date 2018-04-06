@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Padawan Equipment", "01.Padawan Equipment\01.Padawan Equipment.csproj", "{2DE73E7E-364A-485C-AE95-57BF8A3C72D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Kamino Factory", "02. Kamino Factory\02. Kamino Factory.csproj", "{5A0FDA26-A332-474E-87CC-C3D919FE06CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE73E7E-364A-485C-AE95-57BF8A3C72D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE73E7E-364A-485C-AE95-57BF8A3C72D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE73E7E-364A-485C-AE95-57BF8A3C72D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE73E7E-364A-485C-AE95-57BF8A3C72D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0FDA26-A332-474E-87CC-C3D919FE06CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0FDA26-A332-474E-87CC-C3D919FE06CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0FDA26-A332-474E-87CC-C3D919FE06CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0FDA26-A332-474E-87CC-C3D919FE06CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED659035-3488-4790-A04A-CB8721DD3AEF}
+	EndGlobalSection
+EndGlobal
