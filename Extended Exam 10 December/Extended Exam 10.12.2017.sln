@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Raindrops", "01. Raindrops\01. Raindrops.csproj", "{8AB85B1F-9E7B-4D8A-A542-FB04D46F4D65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Raindrops", "01. Raindrops\01. Raindrops.csproj", "{8AB85B1F-9E7B-4D8A-A542-FB04D46F4D65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Raincast", "03. Raincast\03. Raincast.csproj", "{9D68DD40-C070-4527-9D2A-8C27397594D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Raincast", "03. Raincast\03. Raincast.csproj", "{9D68DD40-C070-4527-9D2A-8C27397594D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Icarus", "02.Icarus\02.Icarus.csproj", "{447453F2-7205-476C-8AF9-84C84B088E7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Rainer", "02.Rainer\02.Rainer.csproj", "{02F35004-CD5D-40DA-BE07-5391D0B5C76F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. RainAir", "04. RainAir\04. RainAir.csproj", "{89EDCE8E-65E1-4D1A-BC4B-8FED7DEF0F2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +25,14 @@ Global
 		{9D68DD40-C070-4527-9D2A-8C27397594D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D68DD40-C070-4527-9D2A-8C27397594D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D68DD40-C070-4527-9D2A-8C27397594D2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{447453F2-7205-476C-8AF9-84C84B088E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{447453F2-7205-476C-8AF9-84C84B088E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{447453F2-7205-476C-8AF9-84C84B088E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{447453F2-7205-476C-8AF9-84C84B088E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F35004-CD5D-40DA-BE07-5391D0B5C76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F35004-CD5D-40DA-BE07-5391D0B5C76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F35004-CD5D-40DA-BE07-5391D0B5C76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F35004-CD5D-40DA-BE07-5391D0B5C76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EDCE8E-65E1-4D1A-BC4B-8FED7DEF0F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EDCE8E-65E1-4D1A-BC4B-8FED7DEF0F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EDCE8E-65E1-4D1A-BC4B-8FED7DEF0F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EDCE8E-65E1-4D1A-BC4B-8FED7DEF0F2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
