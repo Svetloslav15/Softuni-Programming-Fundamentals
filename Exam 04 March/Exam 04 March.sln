@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Padawan Equipment", "01.Padawan Equipment\01.Padawan Equipment.csproj", "{2DE73E7E-364A-485C-AE95-57BF8A3C72D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Padawan Equipment", "01.Padawan Equipment\01.Padawan Equipment.csproj", "{2DE73E7E-364A-485C-AE95-57BF8A3C72D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Kamino Factory", "02. Kamino Factory\02. Kamino Factory.csproj", "{5A0FDA26-A332-474E-87CC-C3D919FE06CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Kamino Factory", "02. Kamino Factory\02. Kamino Factory.csproj", "{5A0FDA26-A332-474E-87CC-C3D919FE06CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Star Enigma", "03.Star Enigma\03.Star Enigma.csproj", "{73186759-81EB-4EEB-A63D-C4A0B1D7EDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ForceBook", "04.ForceBook\04.ForceBook.csproj", "{033DBFFF-70E3-426C-8F3C-E74259D3F461}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{5A0FDA26-A332-474E-87CC-C3D919FE06CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A0FDA26-A332-474E-87CC-C3D919FE06CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A0FDA26-A332-474E-87CC-C3D919FE06CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73186759-81EB-4EEB-A63D-C4A0B1D7EDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73186759-81EB-4EEB-A63D-C4A0B1D7EDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73186759-81EB-4EEB-A63D-C4A0B1D7EDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73186759-81EB-4EEB-A63D-C4A0B1D7EDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033DBFFF-70E3-426C-8F3C-E74259D3F461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033DBFFF-70E3-426C-8F3C-E74259D3F461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033DBFFF-70E3-426C-8F3C-E74259D3F461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033DBFFF-70E3-426C-8F3C-E74259D3F461}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
